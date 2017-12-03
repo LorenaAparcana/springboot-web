@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=U TF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title> Spring MVC</title>
         <%@include file="/public/header.jsp" %>
     </head>

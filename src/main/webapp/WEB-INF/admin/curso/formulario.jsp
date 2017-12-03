@@ -22,7 +22,7 @@
 
                         <div class="form-group">
                             <label class="control-label">Programa</label>
-                            <select type="text" name="programa.id" class="form-control">
+                           <select type="text" name="programa.id" class="form-control">
                                 <option></option>
                                 <c:forEach var="p" items="${programas}">
                                     <option value="${p.id}" ${p.id == curso.programa.id ? 'selected' : ''} >${p.nombre}</option>
